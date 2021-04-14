@@ -4,7 +4,7 @@
 
 
 This Repo is The Graph State Challenge Solution,
-made by Kalyuzhner Frima With Great help of Emanuele Dalla-Torre and Adi Makmal.
+made by Frima Kalyuzhner, Emanuele Dalla-Torre and Adi Makmal.
 
 All the notebook have been created through Google Colab - so we reccomend to work there.
 (also, if you want to get again the learning processing after one run, you should restart runtime in order to get the same fitting process).
