@@ -10,7 +10,7 @@ All the notebook have been created through Google Colab - so we reccomend to wor
 (also, if you want to get again the learning processing after one run, you should restart runtime in order to get the same fitting process).
 
 the process of creating our NN model is in the Graph_State_Challenge_Submission_The_Learning_Process notebook,
-Graph_State_Challenge_Submission_The_Results is the real casablanca results notebook - where we check their fidelity.
+Graph_State_Challenge_Submission_The_Results is the real casablanca results notebook - where we check the fidelity from the real results.
 
 besides these 2 notebooks, we have 3 files - 2 npy files and a NN folder:
 
