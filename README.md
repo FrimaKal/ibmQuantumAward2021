@@ -15,5 +15,6 @@ Graph_State_Challenge_Submission_The_Results is the real casablanca results note
 besides these 2 notebooks, we have 3 files - 2 npy files and a NN folder:
 
 result_backend.npy - real casablanca system measurements.
+
 result_mit_backend.npy - real casablanca system measurement's mitigation for IBM CTMP method in order to evaluate.
 model/NN model of IBM prize - The NN folder model that's been created.
