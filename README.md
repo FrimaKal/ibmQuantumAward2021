@@ -12,10 +12,12 @@ All the notebook have been created through Google Colab - so we reccomend to wor
 the process of creating our NN model is in the Graph_State_Challenge_Submission_The_Learning_Process notebook,
 Graph_State_Challenge_Submission_The_Results is the real casablanca results notebook - where we check the fidelity from the real results.
 
-besides these 2 notebooks, we have 3 files - 2 npy files and a NN folder:
+besides these 2 notebooks, we have 4 files - 2 npy files, a NN folder and a PDF file:
 
 result_backend.npy - real casablanca system measurements.
 
 result_mit_backend.npy - real casablanca system measurement's mitigation for IBM CTMP method in order to evaluate.
 
 model/NN model of IBM prize - The NN folder model that's been created.
+
+IBM_Quantum_Awards_Open_Science_Prize_2021__Graph_State_Challenge.pdf - PDF that describes our solution, and shows the results.
